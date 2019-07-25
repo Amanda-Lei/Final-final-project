@@ -1,0 +1,19 @@
+body{
+  background-color: pink;
+}
+
+h1 {
+  color: white;
+  background-color: skyblue;
+  text-align: center;
+  width: 300px;
+  padding: 50px;
+  border: 10px dotted;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  margin: 12px;
+  object-fit: cover;
+}
